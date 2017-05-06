@@ -10,7 +10,7 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp">American Watercolors and the History of Fingerpaints in No </h1>
+          <h1 class="animated fadeInUp">American Watercolors</h1>
           <p class="animated fadeInUp">Research Resources for the Study of American Watercolors</p>
         </div>
       </div>
@@ -38,7 +38,7 @@ permalink: /
 <section id="feature">
 <div class="container">
   <div class="row">
-    <div class="col-md-6 col-md-offset-3">
+    <div class="col-md-8 col-md-offset-2">
 <h2>General Bibliography on American Watercolor</h2>
 <p>
 A selected bibliography appears in American Watercolor in the Age of Homer and Sargent (2017), pp. 467–74, including survey texts, monographic studies, technical analysis, and museum collection catalogues that focus on American watercolor painting. This general bibliography has been excerpted as a .pdf file that can be downloaded:...pdf of bibliography....</p>
