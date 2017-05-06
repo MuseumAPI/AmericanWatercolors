@@ -34,6 +34,8 @@ permalink: /
     </div>
   </div>
 </section>
+
+<section id="feature">
 <div class="container">
   <div class="row">
     <div class="col-md-8 col-md-offset-2">
@@ -89,5 +91,5 @@ Also useful is the [Descriptive Terminology for Works of Art on Paper; Guideline
 <p>
 These resources have been gathered by Kathleen A. Foster over the course of many years studying American watercolor painting. More recently, she has been assisted in building and organizing these research tools by many in the department of American Art at the Philadelphia Museum of Art, including Emily Leischner and Cynthia Veloric, and fellows at the Center for American Art, including Barra Fellows Laura Fravel, Jennifer Stettler Parsons, Naomi Slipp, and Amy Torbert, who shouldered the largest burden pulling all the material together in 2017; and Summer Fellows Caitlin Beach, James Denison, Abby Eron, Ramey Mize, Lauren Palmor, Corey Piper, Melanie Saeck, and Brittany Strupp. Sally Mills, research assistant at the Center for Advanced Studies in the Visual Arts, National Gallery of Art, also helped build the bibliography and contributed the roster of the New York Water Color Society. We are grateful to other museum staffers who helped organize this site, including Kristen Regina, Cynthia Rodriguez, and Ariel Schwarz. [and others]
 </p>  
-
+</section>
       
