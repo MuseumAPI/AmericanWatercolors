@@ -39,12 +39,14 @@ p {
   line-height: 28px;
 }
 ul {
-  padding: 0;
+  padding: 0 0 1em 0;
   margin: 0;
+  color: #8d8f92;
 }
 li {
   font-size: 15px;
   padding-top: 0.25em;
+  padding-left: 1em;
 }
 a,
 a:active,
