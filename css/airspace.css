@@ -7,8 +7,6 @@
  */
 
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
-@import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
 @import url(//philamuseum.org/font/avenir.css);
 /* var text-decoration */
 /*--
@@ -24,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'AvenirLTPro85Heavy', 'Arial', 'Helvetica', sans-serif;
 }
 h2 {
   font-size: 30px;
@@ -63,7 +61,7 @@ a:active {
   font-weight: 600;
 }
 .section-title p {
-  font-family: 'Volkhov', serif;
+  font-family: 'AvenirLTPro35LightOblique', sans-serif;
   font-style: italic;
   color: #666;
 }
@@ -126,7 +124,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #E3E3E4;
 }
 #slider .block h1 {
-  font-family: 'AvenirLTPro35LightOblique', sans-serif;
+  font-family: 'AvenirLTPro85Heavy', 'Arial', 'Helvetica', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -136,7 +134,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'AvenirLTPro55Roman', sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
 }
