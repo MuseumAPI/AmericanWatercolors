@@ -10,15 +10,15 @@ The Zotero software allows searching and sorting, and ways to download citations
 
 For those who cannot or choose not to use the Zotero site, the bibliography of contemporary periodical literature on American watercolor has been downloaded as a document in three sortings: in chronological order (grouped by year), and alphabetically by publication and author, if known.
 
-+ [Chronological Order](/Bibliography/Date.pdf)
-+ [Publication, Alphabetical](/Bibliography/Publication.pdf)
-+ [Author, Alphabetical](/Bibliography/Author.pdf)
++ [Chronological Order](/AmericanWatercolors/Bibliography/Date.pdf)
++ [Publication, Alphabetical](/AmericanWatercolors/Bibliography/Publication.pdf)
++ [Author, Alphabetical](/AmericanWatercolors/Bibliography/Author.pdf)
 
 
 
 In order to assist researchers in using this bibliography, we have also included remarks on the referenced periodicals... offering an overview of their publication histories and information on how to access them for further research. This information is current as of March 2017.
 
-+ [Periodical Literature on American Watercolor with Source Notes](/Bibliography/Source_Notes.pdf)
++ [Periodical Literature on American Watercolor with Source Notes](/AmericanWatercolors/Bibliography/Source_Notes.pdf)
 
 ## Catalogues of the Annual Exhibitions of the American Watercolor Society
 
