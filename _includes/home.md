@@ -1,26 +1,22 @@
 ## General Bibliography on American Watercolor
 
-A selected bibliography appears in American Watercolor in the Age of Homer and Sargent (2017), pp. 467–74, including survey texts, monographic studies, technical analysis, and museum collection catalogues that focus on American watercolor painting. This general bibliography has been excerpted as a .pdf file that can be downloaded:...pdf of bibliography...
+A selected bibliography appears in [American Watercolor in the Age of Homer and Sargent (2017)](http://store.philamuseum.org/item/148174/american-watercolor-in-the-age-of-homer-and-sargent/1.html), pp. 467–74, including survey texts, monographic studies, technical analysis, and museum collection catalogues that focus on American watercolor painting. This general bibliography has been excerpted as a .pdf file that can be downloaded:...pdf of bibliography...
 
 ## Bibliography of Periodical Literature on American Watercolor, c. 1860–1925
 
-Many contemporary exhibition reviews and artist studies from newspapers and journals in the period of the American watercolor movement were quoted in American Watercolor in the Age of Homer and Sargent. These sources were cited in the notes, but not gathered into the selected bibliography published in the book (see .pdf above), in part because of the length of this compilation and also because of its potential for expansion on line. A bibliography of periodical literature has been compiled separately on the Zotero.org website, which offers free and easy-to-use software to those who register and download the software. The Philadelphia Museum of Art’s bibliography can be found at
+Many contemporary exhibition reviews and artist studies from newspapers and journals in the period of the American watercolor movement were quoted in American Watercolor in the Age of Homer and Sargent. These sources were cited in the notes, but not gathered into the selected bibliography published in the book (see .pdf above), in part because of the length of this compilation and also because of its potential for expansion on line. A [bibliography of periodical literature](https://www.zotero.org/groups/174515/items) has been compiled separately on the Zotero.org website, which offers free and easy-to-use software to those who register and download the software. 
 
-[https://www.zotero.org/groups/174515/items](https://www.zotero.org/groups/174515/items)
-
-The Zotero software allows searching and sorting, and ways to download citations in a variety of formats. As new bibliography is discovered, it will be added to the Zotero site by the PMA. Individual users cannot alter or add entries, but we would appreciate contributions of new references that we can add to this collective bibliography. Please contact [Americanartinfo@philamuseum.org](Americanartinfo@philamuseum.org) if you have suggestions or discover errors.
+The Zotero software allows searching and sorting, and ways to download citations in a variety of formats. As new bibliography is discovered, it will be added to the Zotero site by the PMA. Individual users cannot alter or add entries, but we would appreciate contributions of new references that we can add to this collective bibliography. Please [email us](mailto:Americanartinfo@philamuseum.org "americanartinfo@philamuseum.org") if you have suggestions or discover errors.
 
 For those who cannot or choose not to use the Zotero site, the bibliography of contemporary periodical literature on American watercolor has been downloaded as a document in three sortings: in chronological order (grouped by year), and alphabetically by publication and author, if known.
 
-...pdf of Chronological Bibliography of Periodical Literature on American Watercolor, 186x-19xx...
++[Chronological Order](/Bibliography/Date.pdf)
++[Publication, Alphabetical](/Bibliography/Publication.pdf)
++[Author, Alphabetical](/Bibliography/Author.pdf)
 
-...pdf of Bibliography of Periodical Literature on American Watercolor, by Publication...
+In order to assist researchers in using this bibliography, we have also included remarks on the referenced periodicals... offering an overview of their publication histories and information on how to access them for further research. This information is current as of March 2017.
 
-...pdf of Bibliography of Periodical Literature on American Watercolor, by Author...
-
-In order to assist researchers in using this bibliography, we have also included remarks on the referenced periodicals, . offering an overview of their publication histories and information on how to access them for further research. This information is current as of March 2017.
-
-...pdf of Bibliography of Periodical Literature on American Watercolor: Source Notes... 
++[Periodical Literature on American Watercolor with Source Notes](/Bibliography/Source_Notes.pdf)
 
 ## Catalogues of the Annual Exhibitions of the American Watercolor Society
 
