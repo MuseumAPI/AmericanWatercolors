@@ -36,6 +36,13 @@ px      68    160    252    344    436    528    620    712    */
     padding-bottom: 100px;
   }
   /*--
+	intro Start 
+--*/
+  #intro img {
+    padding-left: 40px;
+  }
+
+  /*--
 	features Start 
 --*/
   #features {
