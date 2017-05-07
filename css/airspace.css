@@ -38,10 +38,9 @@ p {
   line-height: 28px;
 }
 ul {
-  padding: 0 0 1em 1em;
+  padding: 0 0 10px 10px;
   margin: 0;
   color: #8d8f92;
-  padding:10px;
 }
 li {
   font-size: 15px;
