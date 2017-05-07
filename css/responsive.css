@@ -413,8 +413,8 @@ px      68    160    252    344    436    */
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
 h2 {
-  font-size: 1.5em;
+  font-size: 14px;
 }
 p {
-  font-size: 1em;
+  font-size: 12px;
 }
