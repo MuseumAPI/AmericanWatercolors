@@ -41,10 +41,12 @@ ul {
   padding: 0 0 1em 1em;
   margin: 0;
   color: #8d8f92;
+  padding:10px;
 }
 li {
   font-size: 15px;
   padding-top: 0.25em;
+  margin-left:10px;
 }
 a,
 a:active,
