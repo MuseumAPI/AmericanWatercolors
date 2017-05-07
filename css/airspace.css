@@ -347,6 +347,13 @@ font header .navbar-default .navbar-nav li a:hover {
   border: 0px;
 }
 /*--
+	intro Start 
+--*/
+  #intro img {
+    padding-left: 40px;
+  }
+
+/*--
 	features Start
 --*/
 #clients-logo-section {
