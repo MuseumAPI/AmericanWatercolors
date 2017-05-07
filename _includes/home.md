@@ -14,6 +14,8 @@ For those who cannot or choose not to use the Zotero site, the bibliography of c
 + [Publication, Alphabetical](/Bibliography/Publication.pdf)
 + [Author, Alphabetical](/Bibliography/Author.pdf)
 
+
+
 In order to assist researchers in using this bibliography, we have also included remarks on the referenced periodicals... offering an overview of their publication histories and information on how to access them for further research. This information is current as of March 2017.
 
 + [Periodical Literature on American Watercolor with Source Notes](/Bibliography/Source_Notes.pdf)
