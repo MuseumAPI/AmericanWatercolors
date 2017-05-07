@@ -44,9 +44,7 @@ ul {
 }
 li {
   font-size: 15px;
-}
-li+li {
-  padding-top: .25em:
+  padding-top: 0.25em;
 }
 a,
 a:active,
