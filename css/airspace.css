@@ -9,12 +9,13 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(//philamuseum.org/font/avenir.css);
 /* var text-decoration */
 /*--
 	Common Css
 --*/
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'AvenirLTPro55Roman','Arial', 'Helvetica', sans-serif; 
   -webkit-font-smoothing: antialiased;
 }
 h1,
