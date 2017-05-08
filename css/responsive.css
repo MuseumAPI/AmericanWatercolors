@@ -185,6 +185,7 @@ px      68    160    252    */
   #slider {
     padding-top: 90px;
     padding-bottom: 100px;
+    background-attachment: scroll;
   }
   #slider .block {
     padding-left: 0px;
@@ -195,6 +196,8 @@ px      68    160    252    */
   #slider .block p {
     font-size: 13px;
   }
+
+
   /*--
 	wrapper Start 
 --*/
