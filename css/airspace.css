@@ -27,7 +27,7 @@ h6 {
 h2 {
   font-size: 30px;
   font-weight: 400;
-  padding-top: 28px;
+  padding-top: 10px;
 }
 h3 {
   font-size: 28px;
@@ -38,7 +38,7 @@ p {
   line-height: 28px;
 }
 ul {
-  padding: 0 0 10px 10px;
+  padding: 0 0 20px 10px;
   margin: 0;
   color: #8d8f92;
 }
