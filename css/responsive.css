@@ -192,9 +192,13 @@ px      68    160    252    */
   }
   #slider .block h1 {
     font-size: 20px;
+    line-height: 40px;
+    padding-bottom: 20px;
+    
   }
   #slider .block p {
     font-size: 13px;
+    line-height: 30px;
   }
 
 
