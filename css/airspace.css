@@ -53,9 +53,11 @@ a:focus,
 a:active {
   text-decoration: none !important;
 }
-.caption p{
+.caption p {
   font-size: 12px;
   line-height: 14px;
+}
+#intro .caption p {
   padding-top: 10px;
 }
 .section-title {
