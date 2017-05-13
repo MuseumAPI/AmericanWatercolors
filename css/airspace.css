@@ -56,7 +56,6 @@ a:active {
 .caption p{
   font-size: 12px;
   line-height: 14px;
-  padding-top: 10px;
 }
 .section-title {
   margin-bottom: 70px;
@@ -361,6 +360,7 @@ font header .navbar-default .navbar-nav li a:hover {
   }
   .caption {
   padding-left: 40px;
+  padding-top: 10px;
   }
 /*--
 	features Start
