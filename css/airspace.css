@@ -53,6 +53,10 @@ a:focus,
 a:active {
   text-decoration: none !important;
 }
+.caption {
+  font-size: 8px;
+  padding-left: 40px;
+}
 .section-title {
   margin-bottom: 70px;
 }
