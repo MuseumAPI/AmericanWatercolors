@@ -264,8 +264,9 @@ px      68    160    252    */
   #intro img {
     padding-left: 0px;
   }
-  .caption {
+  #intro .caption {
   padding-left: 0px;
+  padding-top: 0px;
   }
 
 /*--
