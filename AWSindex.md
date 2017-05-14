@@ -1,3 +1,9 @@
+---
+layout: page
+title: American Watercolor Society Index, 1866/67 to 1922
+permalink: /AWSindex/
+---
+
 ## American Watercolor Society Index, 1866/67 to 1922
 ### Prepared by Amy Torbert
 
