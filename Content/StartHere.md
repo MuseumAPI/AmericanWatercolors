@@ -3,7 +3,7 @@ layout: page
 title: Give the Page a Title
 permalink: /give-the-page-a-url/
 ---
-## First Heading
+## First Sections
 
 Your lovely paragraph.
 
