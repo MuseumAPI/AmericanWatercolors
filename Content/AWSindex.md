@@ -4,7 +4,7 @@ title: American Watercolor Society Index, 1866-1922
 permalink: /AWSindex/
 ---
 
-### American Watercolor Society Index, 1866-1922
+## American Watercolor Society Index, 1866-1922
 #### Prepared by Amy Torbert
 
 + Index of all artists who exhibited at American Watercolor Society exhibitions, 1867–1888 
