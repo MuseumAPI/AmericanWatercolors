@@ -11,7 +11,7 @@ Citation:
 Exhibition reviews and artist studies that appeared in newspapers and illustrated journals in the period of the American watercolor movement were frequently quoted in American Watercolor in the Age of Homer and Sargent and cited in the notes, but were not included in the selected bibliography (see above). These contemporary references and many others have been compiled at Zotero.org, which offers free downloadable and easy-to-use software that allows different ways of searching and sorting citations in a variety of formats. Citations range from 1851 to 1927 but are especially rich for the period from 1866 to 1900: 
 https://www.zotero.org/groups/174515/items. 
 
-Additions to this bibliography will be made on the Zotero site by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by contacting Americanartinfo@philamuseum.org.
+Additions to this bibliography will be made on the Zotero site by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by contacting [Americanartinfo@philamuseum.org](Americanartinfo@philamuseum.org).
 
 This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) chronological order; (2) alphabetical order by publication; (3) alphabetical order by author, if known. These pdfs were created in March 2017 and will be updated periodically. 
 
