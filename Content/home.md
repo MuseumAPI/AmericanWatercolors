@@ -4,12 +4,11 @@ The selected bibliography that appears in American Watercolor in the Age of Home
 
 [1. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent]
 Citation:
-“Selected Bibliography.” In Kathleen A. Foster, American Watercolor in the Age of Homer and Sargent, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
+“Selected Bibliography.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
 
 ## Bibliography of Periodical Literature on American Watercolor, c. 1860–1925
 
-Exhibition reviews and artist studies that appeared in newspapers and illustrated journals in the period of the American watercolor movement were frequently quoted in American Watercolor in the Age of Homer and Sargent and cited in the notes, but were not included in the selected bibliography (see above). These contemporary references and many others have been compiled at Zotero.org, which offers free downloadable and easy-to-use software that allows different ways of searching and sorting citations in a variety of formats. Citations range from 1851 to 1927 but are especially rich for the period from 1866 to 1900: 
-https://www.zotero.org/groups/174515/items. 
+Exhibition reviews and artist studies that appeared in newspapers and illustrated journals in the period of the American watercolor movement were frequently quoted in American Watercolor in the Age of Homer and Sargent and cited in the notes, but were not included in the selected bibliography (see above). These contemporary references and many others have been compiled at Zotero.org, which offers free downloadable and easy-to-use software that allows different ways of searching and sorting citations in a variety of formats. Citations range from 1851 to 1927 but are especially rich for the period from 1866 to 1900: [https://www.zotero.org/groups/174515/items](https://www.zotero.org/groups/174515/items).
 
 Additions to this bibliography will be made on the Zotero site by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by contacting [Americanartinfo@philamuseum.org](Americanartinfo@philamuseum.org).
 
