@@ -1,6 +1,6 @@
 ## General Bibliography on American Watercolor
 
-The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent—including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor—can be downloaded [here](AmericanWatercolors/Bibliography/1. Bibliography on American Watercolor.pdf)[1]. 
+The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent—including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor—can be downloaded [here](Bibliography/Bibliography_on_American_Watercolor.pdf)[1]. 
 
 ## Bibliography of Periodical Literature on American Watercolor, c. 1860–1925
 
