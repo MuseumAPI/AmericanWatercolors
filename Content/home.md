@@ -1,10 +1,6 @@
 ## General Bibliography on American Watercolor
 
-The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent—including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor—can be downloaded here. 
-
-[1. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent]
-Citation:
-“Selected Bibliography.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
+The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent—including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor—can be downloaded here<sup id="1">[1](#f1)</sup>. 
 
 ## Bibliography of Periodical Literature on American Watercolor, c. 1860–1925
 
@@ -97,3 +93,6 @@ For additional technical information on watercolor paintings, see Nancy Ash, Sco
 
 These resources were gathered by Kathleen A. Foster over the course of many years spent studying American watercolor painting. More recently she was assisted in building and organizing these research tools by many members of the department of American Art at the Philadelphia Museum of Art, including Emily Leischner and Cynthia Veloric, and fellows at the Center for American Art, including the Barra Foundation Fellows Laura Fravel, Jennifer Stettler Parsons, Naomi Slipp, and Amy Torbert, and summer fellows James Denison, Abby Eron, Ramey Mize, Lauren Palmor, Corey Piper, Melanie Saeck, and Brittany Strupp. Sally Mills, research assistant at the Center for Advanced Studies in the Visual Arts, National Gallery of Art, Washington, DC, also helped to build the bibliography of periodical literature and contributed to the roster of the New York Water Color Society. We are grateful to many other staff members at the Philadelphia Museum of Art who helped to organize this site, including Christopher Atkins, Kathleen Krattenmaker, Kristen Regina, Sid Rodríguez, Ariel Schwartz, Richard Sieber, and Karina Wratschko. 
 
+<a name="1">1</a>: 1. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent]
+Citation:
+“Selected Bibliography.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
