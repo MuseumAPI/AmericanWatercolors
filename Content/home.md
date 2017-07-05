@@ -75,11 +75,11 @@ These resources were gathered by Kathleen A. Foster over the course of many year
 
 ## Bibliographies
 
-<b id="f1">1</b>. [“Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent](Bibliography/Bibliography_on_American_Watercolor.pdf) [↩](#a1)
+<b id="f1">1</b>. [“Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent](Bibliography/Bibliography_on_American_Watercolor.pdf) [↩](#a1)  
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
 
-<b id="f2">2</b>. [Bibliography of Periodical Literature on American Watercolor, by Date](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf) [↩](#a2)
+<b id="f2">2</b>. [Bibliography of Periodical Literature on American Watercolor, by Date](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf) [↩](#a2)  
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
