@@ -10,18 +10,6 @@ Additions to this bibliography will be made on the [Zotero library](https://www.
 
 This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order] (Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)<sup id="a2">[2](#f2)</sup>; (2) [alphabetical order by publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)<sup id="a3">[3](#f3)</sup>; (3) [alphabetical order by author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)<sup id="a4">[4](#f4)</sup>, if known. These pdfs were created in March 2017 and will be updated periodically. 
 
-[2. PDF of Bibliography of Periodical Literature on American Watercolor, by Date]
-Citation: 
-“Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
-
-[3. PDF of Bibliography of Periodical Literature on American Watercolor, by Publication] 
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
-
-[4. PDF of Bibliography of Periodical Literature on American Watercolor, by Author]
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
-
 To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided here as “Source Notes,” along with information on how to access them online for further research. This information is current as of March 2017.
 
 [5. PDF of Bibliography of Periodical Literature on American Watercolor, Source Notes]
