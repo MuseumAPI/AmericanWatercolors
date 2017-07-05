@@ -10,7 +10,7 @@ Additions to this bibliography will be made on the [Zotero library](https://www.
 
 This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)<sup id="a2">[2](#f2)</sup>; (2) [alphabetical order by publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)<sup id="a3">[3](#f3)</sup>; (3) [alphabetical order by author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)<sup id="a4">[4](#f4)</sup>, if known. These pdfs were created in March 2017 and will be updated periodically. 
 
-To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided here as “[Source Notes](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf),” along with information on how to access them online for further research. This information is current as of March 2017.
+To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided here as “[Source Notes](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf),”<sup id="a5">[5](#f5)</sup> along with information on how to access them online for further research. This information is current as of March 2017.
 
 
 ## Catalogues of the Annual Exhibitions of the American Watercolor Society
@@ -100,6 +100,6 @@ These resources were gathered by Kathleen A. Foster over the course of many year
 > Citation:
 Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f7">7</b>. Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)
+<b id="f7">7</b>. Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)[↩](#a7)
 > Citation:
 Foster, Kathleen A. “Chronology of the American Watercolor Movement.” In Kathleen A. Foster, American Watercolor in the Age of Homer and Sargent, pp. 392–93. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
