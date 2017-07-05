@@ -91,8 +91,7 @@ These resources were gathered by Kathleen A. Foster over the course of many year
 > Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f5">5</b>. [Bibliography of Periodical Literature on American Watercolor, Source Notes]
-(Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf) [↩](#a5)
+<b id="f5">5</b>. [Bibliography of Periodical Literature on American Watercolor, Source Notes](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf) [↩](#a5)
 > Citation:
 “Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
