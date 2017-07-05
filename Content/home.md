@@ -8,7 +8,7 @@ Exhibition reviews and artist studies that appeared in newspapers and illustrate
 
 Additions to this bibliography will be made on the [Zotero library](https://www.zotero.org/groups/174515/items) by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by emailing [Americanartinfo@philamuseum.org](mailto:Americanartinfo@philamuseum.org).
 
-This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order] (Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)<sup id="a2">[2](#f2)</sup>; (2) [alphabetical order by publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)<sup id="a3">[3](#f3)</sup>; (3) [alphabetical order by author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)<sup id="a4">[4](#f4)</sup>, if known. These pdfs were created in March 2017 and will be updated periodically. 
+This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)<sup id="a2">[2](#f2)</sup>; (2) [alphabetical order by publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)<sup id="a3">[3](#f3)</sup>; (3) [alphabetical order by author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)<sup id="a4">[4](#f4)</sup>, if known. These pdfs were created in March 2017 and will be updated periodically. 
 
 To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided here as “Source Notes,” along with information on how to access them online for further research. This information is current as of March 2017.
 
@@ -84,12 +84,15 @@ These resources were gathered by Kathleen A. Foster over the course of many year
 <b id="f1">1</b>. [“Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent](Bibliography/Bibliography_on_American_Watercolor.pdf) [↩](#a1)
 > Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
+
 <b id="f2">2</b>. [Bibliography of Periodical Literature on American Watercolor, by Date](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf) [↩](#a2)
 > Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
+
 <b id="f3">3</b>. [Bibliography of Periodical Literature on American Watercolor, by Publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf) [↩](#a3)
 > Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
+
 <b id="f4">4</b>. [Bibliography of Periodical Literature on American Watercolor, by Author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf) [↩](#a4)
 > Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
