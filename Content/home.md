@@ -19,11 +19,11 @@ The founding of the American Watercolor Society (AWS) in December 1866 launched 
 
 We are grateful to the custodians of the original catalogues for allowing us to include them here: Frick Art Reference Library, New York; Thomas J. Watson Library of the Metropolitan Museum of Art, New York; Winterthur Library, Delaware.
 
-+ Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [PDF](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.pdf) [XLSX](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.xlsx)<sup id="a6">[6](#f6)</sup>
+Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [PDF](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.pdf) [XLSX](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.xlsx)<sup id="a6">[6](#f6)</sup>
 
-+ Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)<sup id="a7">[7](#f7)</sup>
+Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)<sup id="a7">[7](#f7)</sup>
 
-+ [Links to catalogue scans]
+[Links to catalogue scans]
 
 ## Record of the Annual Exhibitions of the American Watercolor Society, 1867/68–1890
 
