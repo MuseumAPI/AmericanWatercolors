@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: American Watercolors
 description: Research Resources for the Study of American Watercolors
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://philamuseum.github.io/AmericanWatercolors/" # the subpath of your site, e.g. /blog
+url: "https://philamuseum.github.io/AmericanWatercolors/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
