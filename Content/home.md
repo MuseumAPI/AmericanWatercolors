@@ -1,6 +1,6 @@
 ## General Bibliography on American Watercolor
 
-The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent—including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor—can be downloaded [here](Bibliography/Bibliography_on_American_Watercolor.pdf)<sup id="a1">[1](#f1)</sup>. 
+The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent—including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor—can be downloaded [here](Bibliography/Bibliography_on_American_Watercolor.pdf). 
 
 ## Bibliography of Periodical Literature on American Watercolor, c. 1860–1925
 
@@ -8,9 +8,9 @@ Exhibition reviews and artist studies that appeared in newspapers and illustrate
 
 Additions to this bibliography will be made on the [Zotero library](https://www.zotero.org/groups/174515/items) by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by emailing [Americanartinfo@philamuseum.org](mailto:Americanartinfo@philamuseum.org).
 
-This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)<sup id="a2">[2](#f2)</sup>; (2) [alphabetical order by publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)<sup id="a3">[3](#f3)</sup>; (3) [alphabetical order by author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)<sup id="a4">[4](#f4)</sup>, if known. These pdfs were created in March 2017 and will be updated periodically. 
+This bibliography has also been downloaded and made accessible here as pdfs in three different formats: (1) [chronological order](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf); (2) [alphabetical order by publication](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf); (3) [alphabetical order by author](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf), if known. These pdfs were created in March 2017 and will be updated periodically. 
 
-To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided here as “[Source Notes](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf),”<sup id="a5">[5](#f5)</sup> along with information on how to access them online for further research. This information is current as of March 2017.
+To assist researchers using this bibliography, an overview of the publication histories of the various periodicals is provided here as “[Source Notes](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf),” along with information on how to access them online for further research. This information is current as of March 2017.
 
 
 ## Catalogues of the Annual Exhibitions of the American Watercolor Society
@@ -19,9 +19,9 @@ The founding of the American Watercolor Society (AWS) in December 1866 launched 
 
 We are grateful to the custodians of the original catalogues for allowing us to include them here: Frick Art Reference Library, New York; Thomas J. Watson Library of the Metropolitan Museum of Art, New York; Winterthur Library, Delaware.
 
-Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [PDF](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.pdf) [XLSX](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.xlsx)<sup id="a6">[6](#f6)</sup>
+Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [PDF](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.pdf) [XLSX](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.xlsx)
 
-Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)<sup id="a7">[7](#f7)</sup>
+Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)
 
 [Links to catalogue scans]
 
@@ -74,30 +74,30 @@ For additional technical information on watercolor paintings, see Nancy Ash, Sco
 These resources were gathered by Kathleen A. Foster over the course of many years spent studying American watercolor painting. More recently she was assisted in building and organizing these research tools by many members of the department of American Art at the Philadelphia Museum of Art, including Emily Leischner and Cynthia Veloric, and fellows at the Center for American Art, including the Barra Foundation Fellows Laura Fravel, Jennifer Stettler Parsons, Naomi Slipp, and Amy Torbert, and summer fellows James Denison, Abby Eron, Ramey Mize, Lauren Palmor, Corey Piper, Melanie Saeck, and Brittany Strupp. Sally Mills, research assistant at the Center for Advanced Studies in the Visual Arts, National Gallery of Art, Washington, DC, also helped to build the bibliography of periodical literature and contributed to the roster of the New York Water Color Society. We are grateful to many other staff members at the Philadelphia Museum of Art who helped to organize this site, including Christopher Atkins, Kathleen Krattenmaker, Kristen Regina, Sid Rodríguez, Ariel Schwartz, Richard Sieber, and Karina Wratschko. 
 
 ## Bibliographies
-<b id="f1">1</b>. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent [[PDF](Bibliography/Bibliography_on_American_Watercolor.pdf)] [↩](#a1)  
+<b id="f1">1</b>. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent [[PDF](Bibliography/Bibliography_on_American_Watercolor.pdf)]   
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
 
-<b id="f2">2</b>. Bibliography of Periodical Literature on American Watercolor, by Date [[PDF](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)] [↩](#a2)  
+<b id="f2">2</b>. Bibliography of Periodical Literature on American Watercolor, by Date [[PDF](Bibliography/Bibliography_of_Periodical_Literature_by_date.pdf)]   
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f3">3</b>. Bibliography of Periodical Literature on American Watercolor, by Publication [[PDF](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)] [↩](#a3)  
+<b id="f3">3</b>. Bibliography of Periodical Literature on American Watercolor, by Publication [[PDF](Bibliography/Bibliography_of_Periodical_Literature_by_publication.pdf)]   
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f4">4</b>. Bibliography of Periodical Literature on American Watercolor, by Author [[PDF](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)] [↩](#a4)  
+<b id="f4">4</b>. Bibliography of Periodical Literature on American Watercolor, by Author [[PDF](Bibliography/Bibliography_of_Periodical_Literature_by_author.pdf)]   
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f5">5</b>. Bibliography of Periodical Literature on American Watercolor, Source Notes [[PDF](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf)] [↩](#a5)  
+<b id="f5">5</b>. Bibliography of Periodical Literature on American Watercolor, Source Notes [[PDF](Bibliography/Bibliography_of_Periodical_Literature_Source_Notes.pdf)]   
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f6">6</b>. Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.pdf) | [XLSX](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.xlsx)][↩](#a6)  
+<b id="f6">6</b>. Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.pdf) | [XLSX](Bibliography/Analytic_Chart_of_the_Annual_Exhibitions_of_the_American_Watercolor_Society.xlsx)]  
 Citation:
 Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. [insert URL here].
 
-<b id="f7">7</b>. Appendix C, Chronology of the American Watercolor Movement [[PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)][↩](#a7)  
+<b id="f7">7</b>. Appendix C, Chronology of the American Watercolor Movement [[PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)]  
 Citation:
 Foster, Kathleen A. “Chronology of the American Watercolor Movement.” In Kathleen A. Foster, American Watercolor in the Age of Homer and Sargent, pp. 392–93. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
