@@ -57,29 +57,29 @@ These resources were gathered by Kathleen A. Foster over the course of many year
 
 ## Bibliographies
 <b>1</b>. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent [[PDF](Bibliography/1_Bibliography_on_American Watercolor.pdf)]
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Date.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
+|Citation:|
+|“Bibliography of Periodical Literature on American Watercolor, by Date.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.|
 
 <b>2</b>. Bibliography of Periodical Literature on American Watercolor, by Date [[PDF](Bibliography/2_Bibliography_of_Periodical_Literature_by_date.pdf)]
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
+|Citation:|
+“Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.|
 
 <b>3</b>. Bibliography of Periodical Literature on American Watercolor, by Publication [[PDF](Bibliography/3_Bibliography_of_Periodical_Literature_by_publication.pdf)]   
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
+|Citation:|
+|“Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.| 
 
 <b>4</b>. Bibliography of Periodical Literature on American Watercolor, by Author [[PDF](Bibliography/4_Bibliography_of_Periodical_Literature_by_author.pdf)]   
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
+|Citation:|
+|“Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.|
 
 <b>5</b>. Bibliography of Periodical Literature on American Watercolor, Source Notes [[PDF](Bibliography/5_Bibliography_of_Periodical_Literature_Source_Notes.pdf)]   
-Citation:
-“Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
+|Citation:|
+|“Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.|
 
 <b>6</b>. Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.pdf) | [XLSX](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.xlsx)]  
-Citation:
-Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
+|Citation:|
+|Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.| 
 
 <b>7</b>. Appendix C, Chronology of the American Watercolor Movement [[PDF](Bibliography/7_Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)]  
-Citation:
-Foster, Kathleen A. “Chronology of the American Watercolor Movement.” In Kathleen A. Foster, American Watercolor in the Age of Homer and Sargent, pp. 392–93. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
+|Citation:
+Foster, Kathleen A. “Chronology of the American Watercolor Movement.” In Kathleen A. Foster, American Watercolor in the Age of Homer and Sargent, pp. 392–93. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.|
