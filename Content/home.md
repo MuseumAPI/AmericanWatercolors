@@ -59,7 +59,7 @@ For additional technical information on watercolor paintings, see Nancy Ash, Sco
 These resources were gathered by Kathleen A. Foster over the course of many years spent studying American watercolor painting. More recently she was assisted in building and organizing these research tools by many members of the department of American Art at the Philadelphia Museum of Art, including Emily Leischner and Cynthia Veloric, and fellows at the Center for American Art, including the Barra Foundation Fellows Laura Fravel, Jennifer Stettler Parsons, Naomi Slipp, and Amy Torbert, and summer fellows James Denison, Abby Eron, Ramey Mize, Lauren Palmor, Corey Piper, Melanie Saeck, and Brittany Strupp. Sally Mills, research assistant at the Center for Advanced Studies in the Visual Arts, National Gallery of Art, Washington, DC, also helped to build the bibliography of periodical literature and contributed to the roster of the New York Water Color Society. We are grateful to many other staff members at the Philadelphia Museum of Art who helped to organize this site, including Christopher Atkins, Kathleen Krattenmaker, Kristen Regina, Sid Rodríguez, Ariel Schwartz, Richard Sieber, and Karina Wratschko. 
 
 ## Bibliographies
-<b>1</b>. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent [[PDF](Bibliography/1_Bibliography_on_American Watercolor.pdf)]
+<b>1</b>. “Selected Bibliography,” from American Watercolor in the Age of Homer and Sargent [[PDF]](Bibliography/1_Bibliography_on_American Watercolor.pdf)]
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, by Date.” In American Watercolor in the Age of Homer and Sargent, by Kathleen A. Foster, pp. 467–74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017.
 
@@ -79,7 +79,7 @@ Citation:
 Citation:
 “Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
 
-<b>6</b>. Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.pdf) | [XLSX](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.xlsx)]  
+<b>6</b>. Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.pdf)|[XLSX](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.xlsx)]  
 Citation:
 Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
 
