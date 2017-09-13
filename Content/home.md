@@ -66,7 +66,7 @@ Citation:
 
 <b>3</b>. Bibliography of Periodical Literature on American Watercolor, by Publication [[PDF](Bibliography/3_Bibliography_of_Periodical_Literature_by_publication.pdf)]   
 Citation:
-“Bibliography | of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.
+“Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017.
 
 <b>4</b>. Bibliography of Periodical Literature on American Watercolor, by Author [[PDF](Bibliography/4_Bibliography_of_Periodical_Literature_by_author.pdf)]   
 Citation:
