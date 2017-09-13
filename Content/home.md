@@ -15,7 +15,7 @@ To assist researchers using this bibliography, an overview of the publication hi
 
 ## Catalogues of the Annual Exhibitions of the American Watercolor Society
 
-The founding of the American Watercolor Society (AWS) in December 1866 launched a series of annual exhibitions the following year, initially in conjunction with the winter exhibition of the National Academy of Design (NAD) in New York. Beginning in 1874, when the NAD’s winter exhibitions ceased, the AWS organized its annuals independently, for about twenty-five years at the NAD and then in other locations. The catalogues for these exhibitions have been gathered and made accessible here as a complete run, from the first exhibition in 1867/68 to 1922, when the AWS began to exhibit jointly with the New York Water Color Club. Also included are pdfs of an analytic chart of the entire run of exhibitions (1867–1922) and a chronology of the AWS and the larger watercolor movement in these years.
+The founding of the American Watercolor Society (AWS) in December 1866 launched a series of annual exhibitions the following year, initially in conjunction with the winter exhibition of the National Academy of Design (NAD) in New York. Beginning in 1874, when the NAD’s winter exhibitions ceased, the AWS organized its annuals independently, for about twenty-five years at the NAD and then in other locations. The catalogues for these exhibitions have been gathered and made accessible as a collection on the Internet Archive[https://archive.org/details/americanwatercolorsociety] as a complete run, from the first exhibition in 1867/68 to 1922, when the AWS began to exhibit jointly with the New York Water Color Club. Also included are pdfs of an analytic chart of the entire run of exhibitions (1867–1922) and a chronology of the AWS and the larger watercolor movement in these years.
 
 We are grateful to the custodians of the original catalogues for allowing us to include them here: Frick Art Reference Library, New York; Thomas J. Watson Library of the Metropolitan Museum of Art, New York; Winterthur Library, Delaware.
 
@@ -23,7 +23,7 @@ Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 186
 
 Appendix C, Chronology of the American Watercolor Movement [PDF](Bibliography/Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)
 
-[Links to catalogue scans]
+(Catalogues of the Annual Exhibitions of the American Watercolor Society)[https://archive.org/details/americanwatercolorsociety]
 
 ## Record of the Annual Exhibitions of the American Watercolor Society, 1867/68–1890
 
