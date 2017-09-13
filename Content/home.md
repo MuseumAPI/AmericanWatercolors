@@ -19,9 +19,9 @@ The founding of the American Watercolor Society (AWS) in December 1866 launched 
 
 We are grateful to the custodians of the original catalogues for allowing us to include them here: Frick Art Reference Library, New York; Thomas J. Watson Library of the Metropolitan Museum of Art, New York; Winterthur Library, Delaware.
 
-Digitized Catalogues of the Annual Exhibitions of the American Watercolor Society on[Internet Archive](https://archive.org/details/americanwatercolorsociety)
+Digitized Catalogues of the Annual Exhibitions of the American Watercolor Society on the [Internet Archive](https://archive.org/details/americanwatercolorsociety)
 
-Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.pdf)] | [[XLSX](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.xlsx)]
+Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.pdf)]|[[XLSX](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.xlsx)]
 
 Appendix C, Chronology of the American Watercolor Movement [[PDF](Bibliography/7_Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)]
 
@@ -29,7 +29,7 @@ Appendix C, Chronology of the American Watercolor Movement [[PDF](Bibliography/7
 
 A record of the artists participating in the annual exhibitions of the American Watercolor Society, along with the titles of their works—in the tradition of Peter Hastings Falk’s Annual Exhibition Record of the Pennsylvania Academy of the Fine Arts (Madison, CT: Sound View Press, 1989)—is currently being compiled. As of June 2017 this index includes information on the exhibitions of 1867/68 (when the entries for the AWS galleries were merged within the larger roster of exhibitors in the NAD’s winter exhibition) through 1890. Check back for expanded editions (through 1922) of this ongoing project. To suggest additions or corrections, please contact <Americanartinfo@philamuseum.org>.
 
-Annual Exhibition Record of the American Watercolor Society, 1867/68–1890, [[by artist](Bibliography/8_Annual_Exhibition_Record_AWS_ 1867_1890_by_artist.pdf)] | [[by owner](Bibliography/9_Annual_Exhibition_Record_AWS_ 1867_1890_by_owner.pdf)]
+Annual Exhibition Record of the American Watercolor Society, 1867/68–1890, [[by artist](Bibliography/8_Annual_Exhibition_Record_AWS_ 1867_1890_by_artist.pdf)]|[[by owner](Bibliography/9_Annual_Exhibition_Record_AWS_ 1867_1890_by_owner.pdf)]
 
 In the spirit of open exchange, our [data set](Bibliography/10_Annual_Exhibition_Record_data_set.xlsx) is available for download as an Excel spreadsheet. The data is contained in two worksheets (accessible through tabs at the bottom left of the spreadsheet). The first set (“Catalogue data”) provides raw data gathered from the exhibition catalogues. This can be sorted by category (such as artist, price, owner, or nationality). The second set (“Addresses”) tracks artists’ addresses provided in the exhibition catalogues. This data has been broken down into the smallest components (street number, street, city, county, state, and country) for ease of sorting.
 
@@ -61,23 +61,23 @@ Citation:
 
 <b>2</b>. Bibliography of Periodical Literature on American Watercolor, by Date [[PDF](Bibliography/2_Bibliography_of_Periodical_Literature_by_date.pdf)]
 Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
+“Bibliography of Periodical Literature on American Watercolor, by Date.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
 
 <b>3</b>. Bibliography of Periodical Literature on American Watercolor, by Publication [[PDF](Bibliography/3_Bibliography_of_Periodical_Literature_by_publication.pdf)]   
 Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
+“Bibliography of Periodical Literature on American Watercolor, by Publication.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
 
 <b>4</b>. Bibliography of Periodical Literature on American Watercolor, by Author [[PDF](Bibliography/4_Bibliography_of_Periodical_Literature_by_author.pdf)]   
 Citation:
-“Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
+“Bibliography of Periodical Literature on American Watercolor, by Author.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
 
 <b>5</b>. Bibliography of Periodical Literature on American Watercolor, Source Notes [[PDF](Bibliography/5_Bibliography_of_Periodical_Literature_Source_Notes.pdf)]   
 Citation:
-“Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
+“Bibliography of Periodical Literature on American Watercolor, Source Notes.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
 
 <b>6</b>. Analytic Chart of the Annual Exhibitions of the American Watercolor Society, 1867/68–1922 [[PDF](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.pdf) | [XLSX](Bibliography/6_Analytic_Chart_of_the_Annual_Exhibitions_of_the_AWS.xlsx)]  
 Citation:
-Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017–. 
+Torbert, Amy. “Analytic Chart of the Annual Exhibitions of the American Watercolor Society.” Watercolor Research Resources Website. Philadelphia: Philadelphia Museum of Art, 2017. 
 
 <b>7</b>. Appendix C, Chronology of the American Watercolor Movement [[PDF](Bibliography/7_Appendix_C_Chronology_of_the_American_Watercolor_Movement.pdf)]  
 Citation:
