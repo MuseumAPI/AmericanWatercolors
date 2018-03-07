@@ -2,6 +2,7 @@
 
 The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent-including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor-can be downloaded here. 
 <html>
+<head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
