@@ -46,7 +46,7 @@ Two appendixes published in *American Watercolor in the Age of Homer and Sargent
 
 ## Watercolor Techniques and Materials
 
-The general bibliography downloadable above as a pdf includes a number of sources on watercolor techniques and materials, including invaluable analyses by the paper conservators Marjorie Cohn, Kristi Dahm, Antoinette Owen, Marjorie Shelley, and Judith Walsh. 
+[The general bibliography](Bibliography/1_Bibliography_on_American Watercolor.pdf) includes a number of sources on watercolor techniques and materials, including invaluable analyses by the paper conservators Marjorie Cohn, Kristi Dahm, Antoinette Owen, Marjorie Shelley, and Judith Walsh. 
 
 Also made available here as a [pdf](Bibliography/13_Pollak_A_History_of_Manufacturing_Watercolor_Paint_in_America.pdf) is paper conservator Rebecca Pollak’s essay “Flash in the Pan: A History of Manufacturing Watercolor Pigments in America,” which appears in *American Watercolor in the Age of Homer and Sargent*.
 
