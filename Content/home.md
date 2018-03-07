@@ -1,7 +1,7 @@
 ## General Bibliography on American Watercolor
 
 The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent-including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor-can be downloaded here. 
-
+<html>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
@@ -17,7 +17,7 @@ $(document).ready(function(){
 
 <p>
  "Selected Bibliography." In Kathleen A. Foster, American Watercolor in the Age of Homer and Sargent, pp. 467-74. Philadelphia: Philadelphia Museum of Art in association with Yale University Press, 2017. </p>
-
+</html>
 Bibliography of Periodical Literature on American Watercolor, c. 1860-1925
 
 Contemporary exhibition reviews and artist studies that appeared in newspapers and illustrated journals in the period of the American watercolor movement were frequently quoted in American Watercolor in the Age of Homer and Sargent and cited in the notes, but were not included in the selected bibliography (see above). These references and many others have been compiled at Zotero.org, which offers free downloadable and easy-to-use software that allows different ways of searching and sorting citations in a variety of formats. Citations range from 1851 to 1927 but are especially rich for the period from 1866 to 1900: 
