@@ -1,10 +1,10 @@
 ## General Bibliography on American Watercolor
 
-The selected bibliography that appears in American Watercolor in the Age of Homer and Sargent-including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor-can be downloaded [here](Bibliography/1_Bibliography_on_American Watercolor.pdf). 
+The selected bibliography that appears in *American Watercolor in the Age of Homer and Sargent*-including surveys, monographic studies, technical analyses, and museum collections catalogues focusing on American watercolor-can be downloaded [here](Bibliography/1_Bibliography_on_American Watercolor.pdf). 
 
 ## Bibliography of Periodical Literature on American Watercolor, c. 1860-1925
 
-Contemporary exhibition reviews and artist studies that appeared in newspapers and illustrated journals in the period of the American watercolor movement were frequently quoted in American Watercolor in the Age of Homer and Sargent and cited in the notes, but were not included in the selected bibliography (see above). These references and many others have been compiled at Zotero.org, which offers free downloadable and easy-to-use software that allows different ways of searching and sorting citations in a variety of formats. Citations range from 1851 to 1927 but are especially rich for the period from 1866 to 1900: https://www.zotero.org/groups/174515/items. 
+Contemporary exhibition reviews and artist studies that appeared in newspapers and illustrated journals in the period of the American watercolor movement were frequently quoted in *American Watercolor in the Age of Homer and Sargent* and cited in the notes, but were not included in the selected bibliography (see above). These references and many others have been compiled at Zotero.org, which offers free downloadable and easy-to-use software that allows different ways of searching and sorting citations in a variety of formats. Citations range from 1851 to 1927 but are especially rich for the period from 1866 to 1900: [https://www.zotero.org/groups/174515/items](https://www.zotero.org/groups/174515/items). 
 
 Additions to this bibliography will be made on the Zotero site by the Philadelphia Museum of Art as new sources are discovered. Individual users cannot alter or add entries but are encouraged to suggest additions or make corrections to this collective bibliography by contacting [Americanartinfo@philamuseum.org](mailto:Americanartinfo@philamuseum.org).
 
@@ -26,7 +26,7 @@ We are grateful to the custodians of the original catalogues for allowing us to 
 
 ## Record of the Annual Exhibitions of the American Watercolor Society, 1867/68-1921
 
-A record of the artists participating in the annual exhibitions of the American Watercolor Society, along with the titles of their works-in the tradition of Peter Hastings Falk's Annual Exhibition Record of the Pennsylvania Academy of the Fine Arts (Madison, CT: Sound View Press, 1989)-has been compiled by Amy Torbert. As of June 2017 this index includes information on the exhibitions of 1867/68 (when the entries for the AWS galleries were merged within the larger roster of exhibitors in the NAD's winter exhibition) through 1921, when the American Watercolor Society began to show jointly with the New York Water Color Club. Check back for expanded editions (through 1922) of this ongoing project. To suggest additions or corrections, please contact [Americanartinfo@philamuseum.org](mailto:Americanartinfo@philamuseum.org).
+A record of the artists participating in the annual exhibitions of the American Watercolor Society, along with the titles of their works-in the tradition of Peter Hastings Falk's *Annual Exhibition Record of the Pennsylvania Academy of the Fine Arts* (Madison, CT: Sound View Press, 1989)-has been compiled by Amy Torbert. As of June 2017 this index includes information on the exhibitions of 1867/68 (when the entries for the AWS galleries were merged within the larger roster of exhibitors in the NAD's winter exhibition) through 1921, when the American Watercolor Society began to show jointly with the New York Water Color Club. Check back for expanded editions (through 1922) of this ongoing project. To suggest additions or corrections, please contact [Americanartinfo@philamuseum.org](mailto:Americanartinfo@philamuseum.org).
 
 * [Annual Exhibition Record of the American Watercolor Society, 1867/68-1890, by artist](Bibliography/8_Annual Exhibition Record of the American Watercolor Society, 1867-1921, by artist, winter 2018 version.pdf)
 
@@ -38,19 +38,19 @@ In the spirit of open exchange, our data set is available for download as an [Ex
 
 ## Members of the New York Water Color Society, 1850-55, and the American Watercolor Society, 1866-1922
 
-Two appendixes published in American Watercolor in the Age of Homer and Sargent are available here for download as pdfs. 
+Two appendixes published in *American Watercolor in the Age of Homer and Sargent* are available here for download as pdfs. 
 
-**Appendix A** lists the members of the earlier New York Water Color Society (1850-55), which included many artists who later joined the AWS.
+[Appendix A](Bibliography/11_Appendix_A_Members_of_the_New_York_Water_Color_Society.pdf) lists the members of the earlier New York Water Color Society (1850-55), which included many artists who later joined the AWS. 
 
-**Appendix B**  lists the artists who joined the AWS from 1866 to 1922, embracing the influx of new members elected in 1921 and 1922 as the AWS began to exhibit jointly with the New York Water Color Club. This list expands and corrects the roster for these years that appears in Ralph Fabri, A History of the American Watercolor Society: The First Hundred Years (New York: AWS, 1969), pp. 88-90, drawing from the minutes of the AWS in addition to the exhibition catalogues. 
+[Appendix B](Bibliography/12_Appendix_B_Members_of_the_American_Watercolor_Society.pdf) lists the artists who joined the AWS from 1866 to 1922, embracing the influx of new members elected in 1921 and 1922 as the AWS began to exhibit jointly with the New York Water Color Club. This list expands and corrects the roster for these years that appears in Ralph Fabri, *A History of the American Watercolor Society: The First Hundred Years* (New York: AWS, 1969), pp. 88-90, drawing from the minutes of the AWS in addition to the exhibition catalogues. 
 
 ## Watercolor Techniques and Materials
 
 The general bibliography downloadable above as a pdf includes a number of sources on watercolor techniques and materials, including invaluable analyses by the paper conservators Marjorie Cohn, Kristi Dahm, Antoinette Owen, Marjorie Shelley, and Judith Walsh. 
 
-Also made available here as a [pdf](Bibliography/13_Pollak_A_History_of_Manufacturing_Watercolor_Paint_in_America.pdf) is paper conservator Rebecca Pollak’s essay “Flash in the Pan: A History of Manufacturing Watercolor Pigments in America,” which appears in American Watercolor in the Age of Homer and Sargent.
+Also made available here as a [pdf](Bibliography/13_Pollak_A_History_of_Manufacturing_Watercolor_Paint_in_America.pdf) is paper conservator Rebecca Pollak’s essay “Flash in the Pan: A History of Manufacturing Watercolor Pigments in America,” which appears in *American Watercolor in the Age of Homer and Sargent*.
 
-For additional technical information on watercolor paintings, see Nancy Ash, Scott Homolka, and Stephanie Lussier, with Rebecca Pollak and Eliza Spaulding, Descriptive Terminology for Works of Art on Paper: Guidelines for the Accurate and Consistent Description of the Materials and Techniques of Drawings, Prints, and Collages, edited by Renée Wolcott (Conservation Department, Philadelphia Museum of Art, 2014). This publication is available as a [pdf](https://www.philamuseum.org/doc_downloads/conservation/DescriptiveTerminologyforArtonPaper.pdf) on the Museum’s website. 
+For additional technical information on watercolor paintings, see Nancy Ash, Scott Homolka, and Stephanie Lussier, with Rebecca Pollak and Eliza Spaulding, *Descriptive Terminology for Works of Art on Paper: Guidelines for the Accurate and Consistent Description of the Materials and Techniques of Drawings, Prints, and Collages*, edited by Renée Wolcott (Conservation Department, Philadelphia Museum of Art, 2014). This publication is available as a [pdf](https://www.philamuseum.org/doc_downloads/conservation/DescriptiveTerminologyforArtonPaper.pdf) on the Museum’s website. 
 
 ## Acknowledgments
 
